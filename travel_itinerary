@@ -1,0 +1,8 @@
+Person enters what they like and interests (ex. hiking, shopping, historical areas, art) and days they can travel.
+
+should return cheap flights using Google Flights API to a place/country that matches the criteria. 
+and maybe a pinned Google map with areas they should check out.
+
+
+
+Need to use Google Flights API, Tripadvisor API, and maybe Instagram (to check for popular check ins and restaurants) 
